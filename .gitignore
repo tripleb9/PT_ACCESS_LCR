@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.db
+data/*.csv
+data/*.geojson
+data/*.gpkg
+.ipynb_checkpoints/
