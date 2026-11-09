@@ -1,6 +1,7 @@
 .venv/
 __pycache__/
 *.db
+notebooks/data/
 data/*.csv
 data/*.geojson
 data/*.gpkg
